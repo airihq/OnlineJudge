@@ -240,7 +240,7 @@ DRAMATIQ_RESULT_BACKEND = {
 }
 
 RAVEN_CONFIG = {
-    'dsn': 'https://b200023b8aed4d708fb593c5e0a6ad3d:1fddaba168f84fcf97e0d549faaeaff0@sentry.io/263057'
+    'dsn': 'https://9838d6bb871d1cfab51654a59ae14a88@o4508963448881152.ingest.us.sentry.io/4508963468541952'
 }
 
 IP_HEADER = "HTTP_X_REAL_IP"
